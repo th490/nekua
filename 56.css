@@ -1,0 +1,13 @@
+
+.box {
+    text-align: center; /*ทำให้ข้อความอยู่ตรงกลาง*/
+    color: lightgreen; /*เปลี่ยนสีข้อความ*/
+}
+.box2{
+    font-size: 25px;   /*ขนาดข้อความ*/
+    color: aquamarine; 
+}
+*{
+
+    background-color: azure; /*สีพื้นหลัง*/
+}
